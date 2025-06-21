@@ -1,6 +1,6 @@
 async function getProduct(id) {
   const url = `${process.env.NEXT_PUBLIC_API_URL}`;
-  const res = await fetch(url + `${id}`);
+  const res = await fetch(url + `/api/products/${id}`);
   if (!res.ok) {
     const errorMsg = await res.json();
     throw new Error(errorMsg.error || "Product not found");

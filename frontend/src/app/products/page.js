@@ -7,9 +7,8 @@ export default function ProductsPage() {
   const [products, setProducts] = useState([]);
   const [filtered, setFiltered] = useState([]);
   const [message, setMessage] = useState("");
-  const url = `${process.env.NEXT_PUBLIC_API_URL}`;
+  const url = `${process.env.NEXT_PUBLIC_API_URL}/api/products/`;
   useEffect(() => {
-    console.log("url: ", url);
     const fetchProducts = async () => {
       try {
         const res = await fetch(url);
