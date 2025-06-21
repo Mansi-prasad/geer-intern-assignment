@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "name": "Gold Necklace",
+    "price": 2500,
+    "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.91gpwCRGuxmG1wht6bpZrgHaKQ&pid=Api&P=0&h=180",
+    "category": "Jewelry",
+    "description": "Elegant 22K gold necklace with intricate design."
+  },
+  {
+    "id": "2",
+    "name": "Diamond Ring",
+    "price": 3200,
+    "imageUrl": "https://tse2.mm.bing.net/th?id=OIP.JTWT7XgPETc3IxCbgP6sRAHaHa&pid=Api&P=0&h=180",
+    "category": "Jewelry",
+    "description": "A sparkling diamond ring set in white gold."
+  },
+  {
+    "id": "3",
+    "name": "Silver Bracelet",
+    "price": 1200,
+    "imageUrl": "https://tse4.mm.bing.net/th?id=OIP.YOjyp090DetyiuC1oHRyugHaHf&pid=Api&P=0&h=180",
+    "category": "Jewelry",
+    "description": "Stylish sterling silver bracelet with charm details."
+  },
+  {
+    "id": "4",
+    "name": "Pearl Earrings",
+    "price": 1500,
+    "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.A813UUXyiZ_DxdkDR1wOMwHaHa&pid=Api&P=0&h=180",
+    "category": "Accessories",
+    "description": "Classic pearl drop earrings for every occasion."
+  },
+  {
+    "id": "9",
+    "name": "Platinum Chain",
+    "price": 4500,
+    "imageUrl": "https://tse3.mm.bing.net/th?id=OIP.FrWTkaN-wHVEElsB7LE0IwHaHa&pid=Api&P=0&h=180",
+    "category": "Jewelry",
+    "description": "Durable and elegant platinum chain for daily wear."
+  },
+  {
+    "id": "13",
+    "name": "Bluetooth Speaker",
+    "price": 89.99,
+    "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.O8A_FOBQuA0Zkg64X2HMqgHaFC&pid=Api&P=0&h=180",
+    "category": "Electronics",
+    "description": "Portable Bluetooth speaker with crystal clear sound."
+  },
+  {
+    "id": "14",
+    "name": "Running Shoes",
+    "price": 129.99,
+    "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.rmabZclGK-Q5j6xu-oXtxwHaDi&pid=Api&P=0&h=180",
+    "category": "Footwear",
+    "description": "Lightweight running shoes with advanced cushioning."
+  },
+  {
+    "id": "15",
+    "name": "Smartwatch",
+    "price": 179.99,
+    "imageUrl": "http://www.pngmart.com/files/13/Smartwatch-Transparent-PNG.png",
+    "category": "Wearables",
+    "description": "Stylish smartwatch with fitness and health tracking."
+  },
+  {
+    "id": "16",
+    "name": "Organic Face Cream",
+    "price": 24.99,
+    "imageUrl": "https://img.thrivemarket.com/store/full/6/6/667383109036-6_1_1.jpg",
+    "category": "Skincare",
+    "description": "Moisturizing face cream made with natural ingredients."
+  },
+  {
+    "id": "11",
+    "name": "Leather Wallet",
+    "price": 49.99,
+    "imageUrl": "https://tse1.mm.bing.net/th?id=OIP.GpnJ4IhgtY959y3SWGk_sAAAAA&pid=Api&P=0&h=180",
+    "category": "Accessories",
+    "description": "Premium leather wallet with RFID protection."
+  },
+  {
+    "id": "19",
+    "name": "Wireless Mouse",
+    "price": 39.99,
+    "imageUrl": "https://www.bhphotovideo.com/images/images2500x2500/Microsoft_GMF_00010_Wireless_Mobile_Mouse_3500_745203.jpg",
+    "category": "electronics",
+    "description": "Ergonomic wireless mouse with long battery life."
+  }
+]
